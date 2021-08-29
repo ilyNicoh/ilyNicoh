@@ -1,6 +1,3 @@
-https://discord.com/users/585608850011455499
-
-
 - 👋 Hi, I’m @ilyNicoh
 - 👀 I’m interested in Minecraft Screenshare Tools
 - 🌱 I’m currently learning Python 
